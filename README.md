@@ -1,2 +1,2 @@
 # projects
-this project copy of spotify app page.
+this project copy for spotify app page.
